@@ -1,2 +1,2 @@
-print("Hello, world!")
-print("Bye!")
+print("Hello, Vadim Kotukhov!")
+
