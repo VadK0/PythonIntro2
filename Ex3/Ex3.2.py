@@ -1,4 +1,4 @@
-x = input("Enter your cabin class: ")
+x = input("Enter your cabin class: ").upper()
 if x == "LUX":
     print("LUX: upper-deck cabin with a balcony.")
 elif x == "A":
